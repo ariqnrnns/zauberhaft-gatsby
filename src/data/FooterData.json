@@ -1,0 +1,62 @@
+{
+  "copyright": "Copyright 2022 © Ariq N. All rights reserved",
+  "link": [
+    {
+      "name": "Work",
+      "url": "#"
+    },
+    {
+      "name": "Services",
+      "url": "#"
+    },
+    {
+      "name": "About",
+      "url": "#"
+    },
+    {
+      "name": "Approach",
+      "url": "#"
+    },
+    {
+      "name": "Blog",
+      "url": "#"
+    }
+  ],
+	"attributions": [
+		{
+      "text": "This website is built with",
+			"brandName": "Ravenbright CSS.",
+			"url": "https://ravenbrightcss.com"
+    },
+		{
+      "text": "Icons are courtesy of",
+			"brandName": "Akar Icons.",
+			"url": "https://akaricons.com"
+    },
+		{
+      "text": "Icons are also courtesy of",
+			"brandName": "Tabler Icons.",
+			"url": "https://tabler-icons.io/"
+    },
+		{
+      "text": "Photos are courtesy of",
+			"brandName": "Unsplash.",
+			"url": "https://unsplash.com"
+    },
+		{
+      "text": "Typeface:",
+			"brandName": "Satoshi Font Family by Indian Type Foundry.",
+			"url": "https://www.fontshare.com/fonts/satoshi"
+    },
+		{
+      "text": "Placeholder Logo is using",
+			"brandName": "Logoipsum.",
+			"url": "https://logoipsum.com"
+    },
+		{
+      "text": "Code released under",
+			"brandName": "Apache License 2.0",
+			"url": "https://github.com/ariqnrnns/zauberhaft-gatsby/blob/main/LICENSE.md"
+    }
+	]
+}
