@@ -75,7 +75,7 @@ Clone this repository and deploy to Netlify:
 - Photos are courtesy of [Unsplash](https://unsplash.com)
 - Typeface: `Satoshi` by [Indian Type Foundry](https://www.fontshare.com/fonts/satoshi)
 - Placeholder Logo are courtesy of [Logoipsum](https://logoipsum.com)
-- Icons are courtesy of [Tabler](https://tabler-icons.io/), [Akar Icons](akaricons.com/), [Feather Icons](https://feathericons.com/), [Font Awesome](https://fontawesome.com/), and [GitHub Octicons](https://octicons.github.com/)
+- Icons are courtesy of [Tabler](https://tabler-icons.io/), [Akar Icons](https://akaricons.com/), [Feather Icons](https://feathericons.com/), [Font Awesome](https://fontawesome.com/), and [GitHub Octicons](https://octicons.github.com/)
 
 ## 📝 License
 
