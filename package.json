@@ -1,0 +1,54 @@
+{
+  "name": "zauberhaft-gatsby",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariqnrnns/zauberhaft-gatsby.git"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://zauberhaft.ravenbright.design",
+  "author": "Ariq N",
+  "description": "Build modern & unique agency portfolio websites that convert. Supercharge your online presence & get more customers with responsive & high performance dark mode Gatsby template. Easily customize the template with utility classes & CSS custom properties",
+  "scripts": {
+    "gatsby-develop": "gatsby develop",
+		"clean": "gatsby clean",
+		"serve": "gatsby serve",
+    "build": "gatsby build",
+    "postcss": "postcss src/styles/main.css --output src/styles/dist/ravenbright.min.css --watch",
+		"dev": "concurrently  'npm:postcss' 'npm:gatsby-develop'"
+  },
+  "bugs": {
+    "url": "https://github.com/ariqnrnns/zauberhaft-gatsby/issues"
+  },
+  "keywords": [
+    "Free gatsby template",
+    "Gatsby template",
+    "Free modern Gatsby template",
+    "Gatsby framework",
+    "Static site generator",
+    "SSG",
+    "SSR",
+    "Server-side rendering"
+  ],
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "cssnano": "^5.1.14",
+		"concurrently": "^7.6.0",
+    "gatsby": "^5.0.0",
+    "gatsby-plugin-image": "^3.0.0",
+    "gatsby-plugin-manifest": "^5.0.0",
+    "gatsby-plugin-postcss": "^6.0.0",
+    "gatsby-plugin-sharp": "^5.0.0",
+    "gatsby-transformer-sharp": "^5.0.0",
+    "postcss": "^8.4.19",
+		"postcss-cli": "^10.0.0",
+    "postcss-import": "^15.0.0",
+    "postcss-mixins": "^9.0.4",
+    "postcss-nested": "^6.0.0",
+    "react": "^18.2.0",
+    "react-icons": "^4.6.0"
+  },
+	"dependencies": {
+    "autoprefixer": "^10.4.13"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+.cache/
+public
+
+# misc
+.DS_Store
+*.pem
+
+.vscode
+cspell.json
+.txt
